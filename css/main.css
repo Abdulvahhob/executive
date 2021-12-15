@@ -14,15 +14,21 @@ body {
 }
 
 .header {
+  padding-top: 41px;
+  margin-bottom: 117px;
+}
+
+.header-box {
   display: flex;
   align-items: center;
-  padding: 41px 0 0 72.5px;
-  margin-bottom: 117px;
+}
+.header-logo {
+  margin-right: 175px;
+  padding-left: 72.5px;
 }
 
 .nav-header {
   width: 862px;
-  margin-left: 175px;
 }
 
 .list-nav {
