@@ -1,0 +1,283 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 41px 0 0 149px;
+  margin-bottom: 117px;
+}
+
+.header-logo {
+
+}
+
+.logo-link {
+
+}
+
+.logo {
+
+}
+
+.nav-header {
+  margin-left: 175px;
+  margin-right: 70px;
+}
+
+.list-nav {
+  display: flex;
+  list-style-type: none;
+  margin-bottom: 13px;
+}
+
+.nav-list-item {
+
+}
+
+.nav-list-item.home {
+
+}
+
+.nav-list-item.about {
+  margin-left: 68px;
+}
+
+.nav-list-item.servic {
+  margin-left: 73px;
+}
+
+.nav-list-item.resp {
+  margin-left: 73px;
+}
+
+.nav-list-item.country {
+  margin-left: 71px;
+}
+
+.list-item-link {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+  color: #373737;
+  
+}
+
+.nav-hr {
+  width: 23px;
+  height: 3px;
+  background: #717CFF;
+  border-radius: 2px;
+  border: none;
+}
+
+.header-link {
+  border: 2px solid #A6ADFF;
+  border-radius: 11px;
+  padding: 9px 30px 13px 30px;
+  background-color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: center;  
+  color: #505050;
+}
+
+.hero-bottom {
+  display: flex;
+  margin-left: 148px;
+}
+
+.hero-left {
+  margin-right: 61px;
+}
+
+.hero-title {
+  font-weight: 900;
+  font-size: 56px;
+  line-height: 66px;  
+  color: #2F2F2F;
+  width: 632px;
+  margin-bottom: 15px;
+}
+
+.hero-title-span {
+  color: #717CFF;
+}
+
+.hero-text {
+  width: 632px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 38px;  
+  color: #7D7D7D;
+  margin-bottom: 42px;
+}
+
+.apply-button {
+  width: 262px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  background-color: #717CFF;
+  border-radius: 11px;
+  margin-bottom: 104px;
+  border: none;
+}
+
+.apply-button-text {
+  width: 138px;
+  height: 40px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 40px;
+  color: #FFFFFF;
+  padding: 12px 34px;
+}
+
+.apply-button-link .apply-button-right {
+  color: #37474F;
+}
+
+.hero-left-bottom-list {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.hero-bottom-item {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.feature {
+  background-color: #FAFAFA;
+}
+
+.feature-title {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 2.1px;
+  text-transform: uppercase;
+  color: #373737;
+  opacity: 0.73;
+  padding-top: 55px;
+  margin-bottom: 86px;
+}
+
+.feature-list-un {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 54px;
+  margin-bottom: 104px;
+}
+
+.un-item {
+  margin-left: 74px;
+}
+
+.feature-list-p {
+  display: flex;
+  list-style-type: none;
+  margin-left: 646px;
+  padding-bottom: 57px;
+}
+
+.p-item {
+  margin-left: 21px;
+}
+
+.services {
+ 
+}
+
+.services-title {
+  font-size: 37px;
+  line-height: 54px;
+  text-align: center;
+  letter-spacing: -0.4625px;  
+  color: #373737;
+  padding-top: 122px;
+  margin-bottom: 25px;
+}
+
+.services-text {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 38px;
+  text-align: center;
+  color: #7D7D7D;
+  text-align: center;
+  margin-bottom: 110px;
+}
+
+.services-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.services-item {
+  width: 344px;
+  box-shadow: 0px 0px 77px rgba(0, 0, 0, 0.06);
+  border-radius: 15px;
+  margin: 25px;
+}
+
+.item-box {
+  margin-left: 31px;
+  padding-top: 29px;
+  padding-bottom: 35px;
+}
+
+.services-item-img {
+  margin-bottom: 30px;
+}
+
+.services-item-title {
+  font-size: 24px;
+  line-height: 37px;
+  color: #37474F;
+  margin-bottom: 9px;  
+}
+
+.services-item-text {
+  width: 296px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.444444px;
+  color: rgba(55, 71, 79, 0.721569);  
+  margin-bottom: 25px;
+}
+
+.services-list-apply {
+  display: flex;
+}
+
+.list-apply {
+  text-decoration: none;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.439286px;
+  color: #717CFF;
+  margin-right: 20.5px;
+}
+
+.list-apply-link {
+  color: #717CFF;
+  padding-top: 4.5px;
+}
